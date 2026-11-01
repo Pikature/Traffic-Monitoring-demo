@@ -1,0 +1,17 @@
+# 任务原始材料与本地截图, 不入库
+question/
+
+# 微信开发者工具个人配置(每台机器各自生成, 会覆盖 project.config.json 同名字段)
+project.private.config.json
+
+# 系统 / 编辑器杂项
+.DS_Store
+Thumbs.db
+*.log
+
+# 预留: 若未来引入 npm 构建链
+node_modules/
+
+# IDE
+.idea/
+.vscode/
